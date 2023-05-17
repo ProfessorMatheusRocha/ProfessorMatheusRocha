@@ -1,5 +1,12 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 👋
 
+**Professor** de Pensamento Computacional do Colégio Estadual do Paraná
+
+Estamos estudando JavaScript e vamos utilizar o [p5.js](https://p5js.org) para programar
+
+Contato: matheus.diogenes.rocha@escola.pr.gov.br
+
+![Catioro](https://3.bp.blogspot.com/-Q0IFNgvBJGA/T689cD3X2CI/AAAAAAAAC9U/PylNFXcYIdk/s1240/dog+professor.jpg)
 <!--
 **ProfessorMatheusRocha/ProfessorMatheusRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
